@@ -5,7 +5,7 @@
   "total_effort_hours" : 0,
   "students": [
     {
-      "name " : "32",
+      "name " : "Shaw",
       "pid"   : "Your StudentId",
       "email" : "Your Email",
       "os"    : "windows|mac|linux"
